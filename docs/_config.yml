@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Flyover Urbanist
+email:       justin.a.raine@gmail.com
+author:      Justin R
+description: "occasional thoughts on cities and other topics from someone in the middle"
 baseurl:     ""
-url:         "https://pixyll.com"
+url:         "https://lithiumaneurysm.github.io"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
@@ -51,7 +51,7 @@ github_username:
 reddit_username:
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
+twitter_username: lithiumaneurysm
 skype_username:
 steam_nickname:
 google_plus_id:
