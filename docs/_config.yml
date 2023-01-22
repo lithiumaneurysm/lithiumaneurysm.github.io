@@ -30,7 +30,8 @@ twitter_username: lithiumaneurysm
 github_username:  lithiumaneurysm
 
 # Build settings
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+# theme: minima
 plugins:
   - jekyll-feed
   - jekyll-include-cache
