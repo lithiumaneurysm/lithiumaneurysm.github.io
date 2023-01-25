@@ -72,7 +72,7 @@ The dominant "this is the way it's always been done" design philosophy also degr
 > Management only knows how to manage with workers in the office. Significant asymmetry in treatment between junior and senior employees. No flexibility in remote work, even with 75%+ of our group out on fieldwork or vacation. Poor career advancement prognosis: "You can become an engineer and get more responsibility" without corresponding progressive compensation, autonomy, and respect. I love my work, but I hate the culture and am aware that most civil firms are like this.
 —r/civilengineering comment
 
-# My own hubris
+## My own hubris
 
 Despite my bitter tone, I don't want to paint too bleak a picture—civil engineering is a big industry, and I certainly had viable alternatives to leaving the field. In transportation engineering, there are [forward-thinking design firms](https://teiconnects.com/) that focus on pedestrians, bicycles, and public transit. There are firms that pay more than the market average and embrace progressive ways of working. If I had worked at one of those firms from the start—hell, if my salary had merely been on par with that of other engineers—I might never have been dissatisfied enough to consider changing careers.
 
