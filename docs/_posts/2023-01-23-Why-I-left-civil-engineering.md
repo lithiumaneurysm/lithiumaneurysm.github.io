@@ -10,7 +10,7 @@ Four years later, I achieved what I set out to do as an eighteen-year-old—I gr
 
 I think my chapter in civil engineering encapsulates multiple subtexts, including the concentration of elite college graduates into a shrinking set of exclusive industries,<sup>1</sup> the profession's conservatism, and my journey of self-discovery as I've moved further into adulthood. If only for my own benefit, I want to capture how I got to this point.
 
-# Three years, two jobs
+## Three years, two jobs
 
 Rice isn't known for having a strong career fair. Despite the school's pedigree, many companies aren't interested in dedicating scarce recruiting resources to such a small student population. Booths dedicated specifically to civil engineering—one of the least popular majors in the engineering school—were especially rare. Regardless, the career fair is where I first encountered the firm I'd end up working at after graduation: a medium-sized, Texas-based engineering consultancy I'll refer to as "JC".
 
@@ -30,7 +30,7 @@ The next two years in St. Louis were a marked improvement. I felt more comfortab
 
 Ultimately, leaving behind a career in engineering is the biggest unplanned change in my life so far, and I spend too much time reflecting on it. I admittedly harbor some resentment from the whole saga, both toward the industry for its shortcomings and myself for being so complacent when planning my career. Still, I believe my choices have been rational. My dissatisfaction with civil engineering had multiple dimensions, and there's little reason to believe they would be easily resolved as I progressed through an engineering career.
 
-# Money matters
+## Money matters
 
 I didn't give much thought to my starting salary when I received my first full-time job offer. At the green age of 22, with my perception of money heavily influenced by r/personalfinance and r/frugal, I had yet to develop an understanding of how much I needed to earn to feel satisfied in life. Assuaging my fears by incessantly googling "$60K good salary Houston" and building a detailed budgeting spreadsheet, I eventually concluded that civil engineering was a respectable, well-paid profession, and I had no reason to worry.
 
@@ -51,7 +51,7 @@ Ultimately, I realized that compensation is an important motivating factor for m
 
 I figured there was a version of the future where I could continue engaging with the world of transportation _and_ feel more valued. After all, transportation and urbanization are enormous topics that impact broad segments of our economy and society—perhaps if I'd sat down to think about it in college, I would have realized that there are ways to work on these topics that don't require becoming an engineer at all.
 
-# A conservative culture
+## A conservative culture
 
 Our modern standard of living depends on highly standardized infrastructure. In order to quickly, cheaply, and safely scale our transportation networks, water systems, sewers, and other infrastructure over the past century, civil engineers have embraced repetition and modularity. Take the Interstate highway system as a prime example: in just half a century, the United States was able to build nearly 50,000 miles of fully grade-separated, high-speed freeways by establishing uniform standards for highway design. This ensures that no matter where you drive in this country, you know in advance what an Interstate will look and feel like—and for engineers, this radically simplifies the problem space when designing a new freeway.
 
