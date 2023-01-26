@@ -4,11 +4,10 @@ email:       justin.a.raine@gmail.com
 author:      Justin R
 description: "occasional thoughts on cities and other topics from someone in the middle"
 baseurl:     ""
-url:         "https://lithiumaneurysm.github.io"
+url:         "www.flyoverurbanist.com"
 date_format: "%b %-d, %Y"
 header_pages:
- - about.md
- - contact.html
+ - aboutme.md
 
 # Google services
 google_verification:
