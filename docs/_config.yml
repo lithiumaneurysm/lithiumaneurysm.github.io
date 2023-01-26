@@ -7,7 +7,7 @@ baseurl:     ""
 url:         "www.flyoverurbanist.com"
 date_format: "%b %-d, %Y"
 header_pages:
- - aboutme.md
+ - aboutme.markdown
 
 # Google services
 google_verification:
