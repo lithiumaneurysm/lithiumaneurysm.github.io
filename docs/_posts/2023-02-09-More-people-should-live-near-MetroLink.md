@@ -2,7 +2,7 @@
 layout: post
 title:  "More people should live near MetroLink"
 date:   2023-02-09 09:00:00 -0600
-categories: urbanism, St. Louis
+categories: urbanism
 ---
 
 Researchers and transit experts have attempted to quantify the “minimum” population density required to justify light rail service in an urban area. Published research [suggests](https://www.pembina.org/reports/making-tracks-toronto.pdf) somewhere around 19,000 people per square mile (ppsm) within the service area of a light rail system. Noted transit expert Christof Spieler [describes](https://kinder.rice.edu/urbanedge/excerpt-many-cities-have-transit-how-many-have-good-transit) a “tipping point” between 10,000 to 15,000 ppsm, at which neighborhoods generate enough trips to justify a higher-capacity transit mode and are complemented by a walkable urban form that discourages driving.
@@ -49,7 +49,7 @@ The vertical and horizontal lines on the graph indicate the median walkshed dens
 The heart of MetroLink is the Central West End station, which sits at the center of the Washington University Medical Campus, a conglomeration of hospitals and schools that hosts 26,000 employees. Covering just shy of 190 acres, the campus's employment density is about 90,000 jobs per square mile—i.e., more than enough activity to support transit service.
 
   <figure>
-    <img src="/docs/images/Central West End.png" width=60% align="middle" />
+    <img src="https://lithiumaneurysm.github.io/images/Central West End.png" width=60% align="middle" />
     <figcaption align="center"><i>The Central West End station's walkshed (purple dashed line) and half-mile radius (red dashed line).</i></figcaption>
   </figure>
   
@@ -60,7 +60,7 @@ Still, the Central West End station does more than ferry hospital employees in a
 
 Similar spatial forces are at play one station to the west, at Forest Park–DeBaliviere. Nestled under the intersection of Forest Park Parkway and DeBaliviere Avenue, the MetroLink station sits at the foot of a dense, walkable corridor along DeBaliviere, recently invigorated by the construction of multiple transit-oriented apartment buildings. A short walk from the station, Pershing and Waterman Boulevards are lined with dozens of large multifamily buildings. The station's northern surroundings are naturally suited to transit, compensating for the lack of density to the south.
 
-  <img src="/docs/images/Forest Park DeBaliviere.png" width=60% align="middle" />
+  <img src="https://lithiumaneurysm.github.io/images/Forest Park DeBaliviere.png" width=60% align="middle" />
   
 The key takeaway from these two stations is that **a good transit stop drops you in the middle of things**. It places you mere steps from a large number of homes, businesses, and amenities. This is, of course, the core principle of transit-oriented development. It's the magic behind the New York CIty Subway, where you find yourself surrounded by activity the moment you ascend the stairs from the station.
 
@@ -71,7 +71,7 @@ MetroLink's Blue Line extension in St. Louis County is a good idea on paper. The
 
 A closer look at the station's surroundings reveals a challenging environment for transit. The station's walkshed population is high because its surroundings are exceptionally residential, with little vacant or nonresidential land use characteristic of many other stations in the system. However, this housing is predominately single-family, creating an environment where driving is convenient. Few will spend the time or make the effort to walk to the station, past unengaging rows of single-family homes, when their car is easily accessible in the driveway.
 
-  <img src="/docs/images/University City Big Bend.png" width=60% align="middle" />
+  <img src="https://lithiumaneurysm.github.io/images/University City Big Bend.png" width=60% align="middle" />
   
 Unviersity City–Big Bend and nearby stations also suffer from suboptimal demographics for high transit ridership. In line with the predominance of single-family homes, this part of University City is quite wealthy, with a median household income exceeding $100K. Wealthier households are more likely to own multiple cars, are less sensitive to the costs of car ownership, and place a higher value on their time. A higher level of transit service is required to coax them from their cars.
 
