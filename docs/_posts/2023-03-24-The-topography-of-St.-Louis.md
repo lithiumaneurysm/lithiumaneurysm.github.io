@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The topography of St. Louis"
-date:   2023-03-24 22:00:00 -0600
+date:   2023-03-24 22:00:00 -0500
 categories: stl
 ---
 
