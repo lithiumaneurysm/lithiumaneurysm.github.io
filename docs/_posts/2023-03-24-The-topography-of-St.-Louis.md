@@ -24,7 +24,7 @@ The northern edge of The Hill is probably the best reminder that it is indeed a 
 This "valley" extends east to Downtown and the Mississippi and is perhaps *the* defining geographic feature of St. Louis. Much of the city's Central Corridor—the densest neighborhoods—straddle this relatively low land, creating ample opportunities to capture panoramic views from surrounding high points. While The Hill is the tallest of these spots, it's far from the only location in the city that offers a vantage point for viewing Downtown.
 
 <figure>
-  <img src="https://lithiumaneurysm.github.io/images/USGS topo map St. Louis.png" width=70% align="middle" />
+  <img src="http://www.flyoverurbanist.com/images/USGS%20topo%20map%20St.%20Louis.png" width=70% align="middle" />
 <figcaption><i>Topographic map of St. Louis, showing the valley between Interstates 44 and 64. Source: <a href="https://apps.nationalmap.gov/viewer/">The National Map</a></i><br/></figcaption>
 </figure>
 <br/>
