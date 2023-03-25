@@ -14,7 +14,7 @@ Art Hill is probably the most iconic vantage point in St. Louis, offering a beau
 There is no plaque or sign marking Sublette Park as the highest point in the city, but there are plenty of nearby indications that "The Hill" is really quite high up there. Most prominent is the (name), the massive Romanesque building that once housed the city's Insane Asylum. The building's cast-iron dome, visible from up to thirty miles away, towers over the otherwise low-slung cityscape of South City. If you meander around The Hill from there, you'll catch a few glimpses of the surrounding landscape. Heading east on Southwest Avenue from Macklind presents an exciting view of the Arch and Downtown, framed by the enthusiastic Italian branding of Southwest Auto Parts and Columbia Auto Repair. At certain points—such as around the Shaw School, or further west at the intersection of Southwest and Watson—one can see the skyline of the Central West End to the north, with the jagged silhouette of the One Hundred standing out.
 
 <figure>
-<img src="https://lithiumaneurysm.github.io/images/CWE from Southwest at Watson.jpeg" width=70% />
+<img src="https://lithiumaneurysm.github.io/images/CWE from Southwest at Watson.jpeg" width=70% align="middle" />
   <figcaption><i>The Central West End skyline from Southwest at Watson.</i><br/></figcaption>
   </figure>
   <br/>
@@ -24,7 +24,7 @@ The northern edge of The Hill is probably the best reminder that it is indeed a 
 This "valley" extends east to Downtown and the Mississippi and is perhaps *the* defining geographic feature of St. Louis. Much of the city's Central Corridor—the densest neighborhoods—straddle this relatively low land, creating ample opportunities to capture panoramic views from surrounding high points. While The Hill is the tallest of these spots, it's far from the only location in the city that offers a vantage point for viewing Downtown.
 
 <figure>
-<img src="https://lithiumaneurysm.github.io/images/USGS topo map St. Louis.png" width=70% />
+<img src="https://lithiumaneurysm.github.io/images/USGS topo map St. Louis.png" width=70% align="middle" />
 <figcaption><i>Topographic map of St. Louis, showing the valley between Interstates 44 and 64. Source: <a href="https://apps.nationalmap.gov/viewer/">The National Map</a></i><br/></figcaption>
   </figure>
   <br/>
@@ -36,7 +36,7 @@ It's at the northwestern corner of Compton Hill—directly north of the reservoi
 The primary buildings of the SSM Health–St. Louis Univeristy Hospital offer the best view of the city from Compton Hill. Among the three largest buildings, the old and new wings of the hospital and the distinctive Doisy Research Center, the latter provides the broadest panorama of the city, sited further north and away from the core of the hospital complex. User images from Google Maps show the view from the upper floors, though none capture Downtown itself.
 
 <p float="left">
-<img src="https://lithiumaneurysm.github.io/images/Google user 1.jpeg" width=53.5% />   <img src="https://lithiumaneurysm.github.io/images/Google user 2.jpeg" width=30% />
+<img src="https://lithiumaneurysm.github.io/images/Google user 1.jpeg" width=53.5% align="middle" />   <img src="https://lithiumaneurysm.github.io/images/Google user 2.jpeg" width=30% align="middle" />
 </p>
 
 Of course, the Research Center is only open to people who have business there—so what's the best *publicly accessible* view from Compton Hill? The most likely answer is the large, recently-constructed [SLU Hospital parking garage](https://goo.gl/maps/qk58kVG4uS9jqtX89), also sited at the north end of the hill, directly west of the Research Center. Like most parking garages, it appears one can simply walk in and take the stairs to the top deck—something I've hesitated to try given the likely presence of security at such a busy garage.
