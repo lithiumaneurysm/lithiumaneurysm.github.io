@@ -1,9 +1,10 @@
 ---
 layout: post
-title: The physical world
+title: "The physical world"
 date: 2023-12-02 12:00:00 -0600
 categories: urbanism
 ---
+
 I spend a lot of time sitting in front of a screen. I have a mentally taxing 50+ hour-a-week slide-making job that also requires me to travel three weeks out of the month (on average). In my scarce free time on the weekends, when I'm grounded in St. Louis, I'm often anxious to get out of the house and away from computers and TVs. As we're increasingly atomized into our comfortable homes, big cars, and zany online personas, it feels important to habitually disconnect and see the world for what it is—in other words, to touch grass.
 
 My preferred method of escapism is long, spontaneous walks and bike rides around the city. Few things provide more of a dopamine hit than seeing St. Louis on a sunny day—the red-brick architecture, the parks, the Arch—and the entire experience is enhanced by the city's rich history and prideful culture. 
