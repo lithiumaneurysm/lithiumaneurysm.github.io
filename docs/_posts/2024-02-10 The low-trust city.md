@@ -78,8 +78,7 @@ I hope to see a restoration of trust in our cities during my lifetime. I hope we
 While I was finishing up this post, I came across a thread on X about a homeless man who was recently murdered in South St. Louis. It's a demoralizing story.
 
 <figure>
-<img src="https://lithiumaneurysm.github.io/images/Dutchtown.png" width="70%" align="middle" />
-  <figcaption><i>The Central West End skyline from Southwest at Watson.</i><br/></figcaption>
+<img src="https://lithiumaneurysm.github.io/images/Dutchtown.png" width="50%" align="middle" />
 </figure>
 <br/>
 
