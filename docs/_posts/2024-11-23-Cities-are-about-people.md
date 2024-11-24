@@ -29,9 +29,9 @@ For me, a few years of living in the city has only emphasized that the city's gr
 * Shooting guns for celebration;
 * Getting into explosive fights at bars, clubs, and [short-term rentals](https://fox2now.com/news/missouri/st-louis-home-riddled-with-bullets-during-short-term-rental-party/)
 
-<figure>
-<img src="http://www.flyoverurbanist.com/images/Kingshighway_damage_1.JPEG" width="45%" align="top" /> <img src="http://www.flyoverurbanist.com/images/Kingshighway_damage_2.JPEG" width="45%" align="top" />
-<figcaption>Destroyed streetlights along Kingshighway.</figcaption>
+<figure style="border: 1px solid #000; padding: 15px"> 
+<img src="http://www.flyoverurbanist.com/images/Kingshighway_damage_1.JPEG" width="49%" align="top" /> <img src="http://www.flyoverurbanist.com/images/Kingshighway_damage_2.JPEG" width="49%" align="top" />
+<figcaption><i>Destroyed streetlights along Kingshighway.</i></figcaption>
 </figure>
 
 Note that I'm not mentioning violent crime, often the first and only point of discussion in conversations about St. Louis's struggles. I won't minimize it—violent crime is horrifying and toxic to urban living, and it is an enormous contributor to the city's decline. But the typical St. Louisian will not be a victim of violent crime. Residents like myself encounter the maladies above *far* more frequently—in 2023, I felt like I couldn't leave my house without witnessing an egregious act of reckless driving. These are the little things that chip away at your love for the city bit by bit until you finally accept that yes, you live in a shithole. An endearing shithole, but a shithole nonetheless.
