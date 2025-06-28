@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The case for (or against) high-speed rail
-date: 2025-06-28 12:00:00 -0600
+date: 2025-06-28 12:00:00 -0500
 categories: transportation
 ---
 
