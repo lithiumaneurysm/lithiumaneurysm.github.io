@@ -24,6 +24,7 @@ Contrast these modes of transportation with rail, which requires:
 Rail is inherently more complex. It combines the disadvantages of motorized transport (continuous point-to-point infrastructure) with those of air and marine transport (large, capex- and opex-intensive vehicles). 
 
 We should expect the incremental investment required to create a rail connection between any two places to be higher than a road, air, or water connection—and, in practice, that's what we see. This doesn't mean we shouldn't build rail anywhere, but we should acknowledge that the cost of doing so limits the number of places where the return on investment is likely to be positive.
+
 #### The dual role of the state
 Another challenge to building high-speed rail is that the proprietor (i.e., the state) must build the infrastructure *and* operate the vehicles.
 
@@ -38,6 +39,7 @@ What California and others are now finding is that it's very difficult to recrea
 In building high-speed rail, we are asking American states to do something they have never done. On some level, we should *expect* failure and massive cost overruns. The path to creating a high-speed rail *industry* in this country will be paved with suffering and debt.
 
 Roads and highways offer a useful contrast. America knows how to build good roads cheaply. Highways have always been under the purview of the government—*every* state has well over a century of experience building them. Investment in roads has been healthy and consistent, supported by trust funds that span changing political winds. There is a sophisticated industry of engineers, contractors, and suppliers engaged in continuous road-building under well-established federal and state guidelines that ensure a high degree of standardization. And, as mentioned before, there is no expectation that the state provide the vehicles to be driven on the roads—so a large source of complexity is entirely absent.
+
 ### So why build high-speed rail?
 The advantage of passenger rail is that it can move a very large number of people in a small terrestrial footprint. Rail has distinct advantages over each of the other primary modes of transport:
 
@@ -53,6 +55,7 @@ Therefore, the case for building high-speed rail is strongest for pairs of citie
 | Existing modes of transport are heavily constrained, or their capacity could be used more efficiently                       | The major airports in the Northeast—e.g., DCA, LGA, EWR—operate at capacity and cannot be expanded; shifting regional flights to rail could create room for more long-distance flights better served by air travel. |
 | High-speed rail can offer a competitive travel time versus driving or flying (i.e., the cities are not too far apart)       | Dallas and Houston are ~250 miles apart; high-speed rail could cover the distance between city centers in ~90 minutes versus 4 hours driving or ~60 minutes by air.                                                 |
 | The terrain is not too challenging—there is a feasible overland route between the cities                                    | The route between Miami and Orlando is flat, and there are existing Interstate highway alignments that can be used for rail.                                                                                        |
+
 There are several city pairs in the United States that meet these criteria. The analysis has already been done—I think Alon Levy's map (below) is basically correct. 
 <figure style="border: 1px solid #000; padding: 0px"> 
 <img src="http://www.flyoverurbanist.com/images/A_Plan_for_American_HSR_Levy.png" width="100%" align="top" /> 
@@ -73,6 +76,7 @@ If the nation's largest and richest state can't build an obvious high-speed rail
 The Texas Central project to connect Dallas and Houston ticked a lot of these boxes, but unfortunately the state of Texas and the Trump Administration could not see its merits. Brightline West also seems more viable—though seemingly already behind schedule—and I hope it'll end up serving as the first example of true high-speed rail in the U.S.
 
 Our federal system dictates that any future high-speed rail project will need to be championed and executed by individual states, just as the Interstate Highway System was. I think high-speed rail is most likely to succeed in a builder-friendly, fast-growing, purple-ish state that isn't beholden to red tape or leftist special interests. Texas and Florida are ideal candidates, and the fact that Florida got a privately-owned passenger rail line before any blue state is a testament to how red-leaning places are actually willing to build.
+
 ### What about the counterfactual?
 I've discussed several reasons why high-speed rail can be beneficial—but this is not enough to say we *need* it. To do that, we need to consider what happens if we *don't* build it.
 
