@@ -57,6 +57,7 @@ There are several city pairs in the United States that meet these criteria. The 
 <figure style="border: 1px solid #000; padding: 0px"> 
 <img src="http://www.flyoverurbanist.com/images/A_Plan_for_American_HSR_Levy.png" width="100%" align="top" /> 
 </figure>
+
 ### Is it worth continuing?
 Los Angeles–San Francisco is a good route for high-speed rail. The problem is not the idea, it's the execution. California has shown it does not have the state capacity necessary to build the line.
 
